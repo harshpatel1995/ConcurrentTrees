@@ -27,8 +27,8 @@ Results
 
 This implementation is optimized for contains operations. Even with relatively similar insert/remove/contains calls, the sequential implementation tends to perform a lot better. This is mainly due to the physical tree locking operations the Logical Ordering AVL tree does during insert/remove.
 
-![alt text](results/33_33_33.png)
+![alt text](Results/33_33_33.png)
 
-![alt text](results/33_0_66.png)
+![alt text](Results/33_0_66.png)
 
-![alt text](results/50_50_0.png)
+![alt text](Results/50_50_0.png)
